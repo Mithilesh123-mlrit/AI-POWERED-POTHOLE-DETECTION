@@ -1,0 +1,12 @@
+ultralytics==8.3.0
+opencv-python
+numpy
+pandas
+matplotlib
+Flask
+torch
+torchvision
+Pillow
+geopy
+folium
+python-dotenv
